@@ -1,0 +1,13 @@
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\bin\Debug\netcoreapp3.1\Маска кредитной карты ката 2.exe
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\bin\Debug\netcoreapp3.1\Маска кредитной карты ката 2.deps.json
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\bin\Debug\netcoreapp3.1\Маска кредитной карты ката 2.runtimeconfig.json
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\bin\Debug\netcoreapp3.1\Маска кредитной карты ката 2.runtimeconfig.dev.json
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\bin\Debug\netcoreapp3.1\Маска кредитной карты ката 2.dll
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\bin\Debug\netcoreapp3.1\Маска кредитной карты ката 2.pdb
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\obj\Debug\netcoreapp3.1\Маска кредитной карты ката 2.csprojAssemblyReference.cache
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\obj\Debug\netcoreapp3.1\Маска кредитной карты ката 2.AssemblyInfoInputs.cache
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\obj\Debug\netcoreapp3.1\Маска кредитной карты ката 2.AssemblyInfo.cs
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\obj\Debug\netcoreapp3.1\Маска кредитной карты ката 2.csproj.CoreCompileInputs.cache
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\obj\Debug\netcoreapp3.1\Маска кредитной карты ката 2.dll
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\obj\Debug\netcoreapp3.1\Маска кредитной карты ката 2.pdb
+C:\Users\asoon\source\repos\Маска кредитной карты ката 2\Маска кредитной карты ката 2\obj\Debug\netcoreapp3.1\Маска кредитной карты ката 2.genruntimeconfig.cache
